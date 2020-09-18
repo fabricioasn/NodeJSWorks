@@ -1,0 +1,2 @@
+.gitignore
+note-str/note_modules/
